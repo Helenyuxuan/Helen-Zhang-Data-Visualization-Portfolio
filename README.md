@@ -8,28 +8,20 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is **Helen Zhang**. I am a second-year Master of Arts Management student at CMU, and I studied Jewelry and Metalsmithing at RISD for my undergraduate degree.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+1. I hope to apply my aesthetic sense of form and composition to data, creating visualizations that are not only functional but also visually compelling.
+2. I want to develop my own design language.
+3. I want to learn how to simplify complex information without losing information, so the story stays both accessible and accurate
 
-1. List item #1
-2. List item #2
-3. List item #3
+# What I am planning to do after graduate
+After I graduate, I plan to work in art administration across galleries and art fairs. In the next few years I expect to be based in Hong Kong, focusing on exhibition production, artist relations, and partnerships. I hope to bring my design sensibility from RISD and management training from CMU to build programs that connect artists with audiences.
 
-or...
 
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+# Portfolio 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
