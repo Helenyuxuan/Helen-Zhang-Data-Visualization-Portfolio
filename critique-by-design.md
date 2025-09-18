@@ -55,6 +55,16 @@ The key pattern in the feedback was confusion about the ranking metaphor. Viewer
 
 In rethinking the design, I moved away from ranking and instead set a scaling baseline of 1,000,000 tons per tomato icon. This approach made it possible to translate the large production values into a manageable number of tomatoes while still preserving proportional relationships. For example, China’s 66 million tons are represented by 66 tomato icons, making the scale difference immediately visible compared to smaller producers. In developing this redesign, I relied on both Stephen Few’s critique criteria and the Good Charts framework, which highlighted key weaknesses of the original bar-race design: the lack of geographic context, the vague and misleading title, and the distracting background. My solution addresses these problems by situating production within its natural geography, using a clearer metaphor, and presenting the data with a cleaner, more perceptible aesthetic. Finally, to emphasize the temporal aspect of the data, I used Tableau’s Pages function so the visualization plays year by year, allowing viewers to watch global tomato production evolve over time.
 
+<div class='tableauPlaceholder' id='viz1758177844033' style='position: relative'><noscript><a href='#'><img alt='Global Tomato Production by Country｜1981-2021Each 🍅 represents 1,000,000 tons                                                                                                          Faostat. Accessed September 18, 2025. https:&#47;&#47;www.fao.org&#47;faostat&#47;en&#47;# ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalTomatoProductionbyCountry1981-2021&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalTomatoProductionbyCountry1981-2021&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalTomatoProductionbyCountry1981-2021&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1758177844033');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 
 ## References
 /
