@@ -21,7 +21,7 @@ When I first started thinking about my redesign, I knew I wanted to use a map to
 
 ## My tomato drawing: 
 <img width="218" height="210" alt="截屏2025-09-18 上午12 23 36" src="https://github.com/user-attachments/assets/ec9590f0-feba-4fea-8ff1-22eed25bdfce" />
-<img width="75" height="376" alt="截屏2025-09-18 上午12 24 51" src="https://github.com/user-attachments/assets/2c04f119-5b36-4ba3-88ce-971dc8fdeb5a" />
+<img width="299" height="240" alt="截屏2025-09-18 上午1 06 11" src="https://github.com/user-attachments/assets/5f231052-e686-4ec5-85da-3e3012bd6933" />
 
 ## First Design(Rank-Based Tomatoes)
 
@@ -47,7 +47,7 @@ At first this seemed like a neat simplification, but after reflecting and gettin
 | **Is there anything you find surprising or confusing?** | Found it misleading that 9 tomatoes (2nd place)<br> vs. 4 tomatoes (7th place) looks like a “double” relationship,<br> when in reality the production values are not proportional. | Pointed out the title was unclear — it doesn’t specify the time span<br> or how many countries are being ranked, which makes the scope ambiguous. |
 
 ## Synthesis
-The key pattern in the feedback was confusion about the ranking metaphor. Viewers needed time to realize tomatoes represented rank, and the inverted logic made the meaning unclear. They also felt the title was vague and missing the timeframe. From this, I learned that rank alone could not show the true production gaps, so I redesigned with a proportional system (1 tomato = 1 million tons) and a clearer title.
+The key pattern in the feedback was confusion about the ranking metaphor. Viewers needed time to realize tomatoes represented rank, and the inverted logic made the meaning unclear. They also felt the title was vague and missing the timeframe.
 
 Based on this, I rethought the design. Instead of using rank, I decided to set a scaling baseline of 1,000,000 tons per tomato icon. This way, I could translate the large production values into a manageable number of tomatoes while still keeping the proportional relationships correct. For example, China’s 66 million tons would be shown as 66 tomatoes, while smaller producers would naturally display fewer.
 Throughout this process, I found that combining Stephen Few’s critique criteria with the Good Charts framework helped me identify specific weaknesses in the original bar-race design: the lack of geographic context, the vague and misleading title, and the distracting background. My redesign addresses these issues by situating production in its natural geographic context, using a clearer metaphor, and presenting the data with a cleaner, more perceptible aesthetic.
