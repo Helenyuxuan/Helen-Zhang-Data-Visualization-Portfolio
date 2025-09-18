@@ -43,6 +43,7 @@ So I considered a different strategy and come up with my first deisgn. I tried t
 At first this seemed like a neat simplification, but after reflecting and getting feedback from my interviewees, I realized this ranking system was misleading. The number of tomatoes became inversely tied to the rank number (rank 1 = 10 tomatoes, rank 10 = 1 tomato), which confused people. More importantly, it completely failed to show the real scale of differences. For instance, China is far ahead of the second-place country, producing five to six times more tomatoes, but my rank-based system would only show one extra tomato—an inaccurate and unhelpful signal.
 
 ## Incorporating Feedback into the Final Visualization
+
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
 | Can you tell me what you think this is? | Said they quickly realized it was showing rankings, but it wasn’t obvious right away. | Recognized it as a ranking display, but pointed out that it doesn’t clarify the actual scale of production. |
