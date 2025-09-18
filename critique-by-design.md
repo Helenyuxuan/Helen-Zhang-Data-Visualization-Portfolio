@@ -3,9 +3,9 @@
 # Critique & Redesign: Visualizing Global Tomato Production
 
 ## The Original visualization
-https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/ 
 <img width="234" height="228" alt="截屏2025-09-18 上午1 09 51" src="https://github.com/user-attachments/assets/d8c44f02-533d-4c26-9221-cf9f295d7163" />
 
+https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/ 
 
 ## The critique
 - **Usefulness**: Shows rankings clearly, but misses actual production scale.  
