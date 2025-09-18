@@ -19,6 +19,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/
 ## Redesign Brainstorming
 
 When I first started thinking about my redesign, I knew I wanted to use a map to show tomato production, since agriculture is deeply tied to geography. But I also wanted the visualization to feel more playful and personal, with a design language that connects to my earlier work. I recalled my previous Debt-to-GDP Red-Flag by Country (1995–2019) project, where I used small red dots to represent “red flags.” Visually, those red flags reminded me of little tomatoes, and I began to wonder if I could use tomato icons directly on the map as a way to show production quantities. So my first idea was to build a kind of density map, where tomatoes would tile across each region almost like population density. However, this approach quickly became too complex. It would require latitude/longitude points for each unit, and even if I solved the technical challenge, the result would likely be too cluttered and unreadable, especially since production values are measured in the millions of tons. Clearly, I couldn’t just place millions of tomato icons.
+
 <img width="370" height="111" alt="截屏2025-09-18 上午2 27 39" src="https://github.com/user-attachments/assets/d96e43e3-08e3-4f68-a816-efa538cedfb7" />
 
 ## My tomato drawing: 
