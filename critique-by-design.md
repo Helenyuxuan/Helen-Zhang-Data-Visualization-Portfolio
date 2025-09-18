@@ -43,9 +43,9 @@ At first this seemed like a neat simplification, but after reflecting and gettin
 ## Incorporating Feedback into the Final Visualization
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-| **Can you tell me what you think this is?** | Said they quickly realized it was showing rankings,<br> but it wasn’t obvious right away. | Recognized it as a ranking display,<br> but pointed out that it doesn’t clarify the actual scale of production. |
-| **Can you describe to me what this is telling you?** | Understood that more tomatoes = higher rank,<br> but noted the logic is inverted (rank 1 has the most tomatoes,<br> rank 10 the fewest), which caused some confusion. | Said the chart shows the top producers,<br> but emphasized that the tomato counts don’t match the true production gaps. |
-| **Is there anything you find surprising or confusing?** | Found it misleading that 9 tomatoes (2nd place)<br> vs. 4 tomatoes (7th place) looks like a “double” relationship,<br> when in reality the production values are not proportional. | Pointed out the title was unclear — it doesn’t specify the time span<br> or how many countries are being ranked, which makes the scope ambiguous. |
+| Can you tell me what you think this is? | Said they quickly realized it was showing rankings,<br> but it wasn’t obvious right away. | Recognized it as a ranking display,<br> but pointed out that it doesn’t clarify the actual scale of production. |
+| Can you describe to me what this is telling you? | Understood that more tomatoes = higher rank,<br> but noted the logic is inverted (rank 1 has the most tomatoes,<br> rank 10 the fewest), which caused some confusion. | Said the chart shows the top producers,<br> but emphasized that the tomato counts don’t match the true production gaps. |
+| Is there anything you find surprising or confusing? | Found it misleading that 9 tomatoes (2nd place)<br> vs. 4 tomatoes (7th place) looks like a “double” relationship,<br> when in reality the production values are not proportional. | Pointed out the title was unclear — it doesn’t specify the time span<br> or how many countries are being ranked, which makes the scope ambiguous. |
 
 ## Synthesis
 The key pattern in the feedback was confusion about the ranking metaphor. Viewers needed time to realize tomatoes represented rank, and the inverted logic made the meaning unclear. They also felt the title was vague and missing the timeframe.
