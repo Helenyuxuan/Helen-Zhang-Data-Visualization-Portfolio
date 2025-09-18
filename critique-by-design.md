@@ -21,7 +21,7 @@ When I first started thinking about my redesign, I knew I wanted to use a map to
 
 ## My tomato drawing: 
 <img width="218" height="210" alt="截屏2025-09-18 上午12 23 36" src="https://github.com/user-attachments/assets/ec9590f0-feba-4fea-8ff1-22eed25bdfce" />
-<img width="887" height="752" alt="截屏2025-09-18 上午12 24 51" src="https://github.com/user-attachments/assets/2c04f119-5b36-4ba3-88ce-971dc8fdeb5a" />
+<img width="75" height="376" alt="截屏2025-09-18 上午12 24 51" src="https://github.com/user-attachments/assets/2c04f119-5b36-4ba3-88ce-971dc8fdeb5a" />
 
 ## First Design(Rank-Based Tomatoes)
 
@@ -42,9 +42,9 @@ At first this seemed like a neat simplification, but after reflecting and gettin
 ## Incorporating Feedback into the Final Visualization
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|Can you tell me what you think this is?|Said they quickly realized it was showing rankings, but it wasn’t obvious right away.|Recognized it as a ranking display, but pointed out that it doesn’t clarify the actual scale of production.|
-|Can you describe to me what this is telling you?|Understood that more tomatoes = higher rank, but noted the logic is inverted (rank 1 has the most tomatoes, rank 10 has the fewest), which caused some confusion.|Said the chart shows the top producers, but emphasized that the tomato counts don’t match the true production gaps.|
-|Is there anything you find surprising or confusing?|Found it misleading that 9 tomatoes (2nd place) vs. 4 tomatoes (7th place) looks like a “double” relationship, when in reality the production values are not proportional.|Pointed out the title was unclear — it doesn’t specify the time span or how many countries are being ranked, which makes the scope ambiguous.|
+| **Can you tell me what you think this is?** | Said they quickly realized it was showing rankings,<br> but it wasn’t obvious right away. | Recognized it as a ranking display,<br> but pointed out that it doesn’t clarify the actual scale of production. |
+| **Can you describe to me what this is telling you?** | Understood that more tomatoes = higher rank,<br> but noted the logic is inverted (rank 1 has the most tomatoes,<br> rank 10 the fewest), which caused some confusion. | Said the chart shows the top producers,<br> but emphasized that the tomato counts don’t match the true production gaps. |
+| **Is there anything you find surprising or confusing?** | Found it misleading that 9 tomatoes (2nd place)<br> vs. 4 tomatoes (7th place) looks like a “double” relationship,<br> when in reality the production values are not proportional. | Pointed out the title was unclear — it doesn’t specify the time span<br> or how many countries are being ranked, which makes the scope ambiguous. |
 
 ## Synthesis
 The key pattern in the feedback was confusion about the ranking metaphor. Viewers needed time to realize tomatoes represented rank, and the inverted logic made the meaning unclear. They also felt the title was vague and missing the timeframe. From this, I learned that rank alone could not show the true production gaps, so I redesigned with a proportional system (1 tomato = 1 million tons) and a clearer title.
