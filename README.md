@@ -16,7 +16,9 @@ Hi! My name is **Helen Zhang**. I am a second-year Master of Arts Management stu
 After I graduate, I plan to work in art administration across galleries and art fairs. In the next few years I expect to be based in Hong Kong, focusing on exhibition production, artist relations, and partnerships. I hope to bring my design sensibility from RISD and management training from CMU to build programs that connect artists with audiences.
 
 # My Work
+
 **Click the link below to view my design**
+
  ### [Government Debt Visualization](dataviz-examples.md)  
   An analysis of OECD government debt data, presented with a table using conditional formatting and red-flag thresholds to highlight countries with high debt-to-GDP ratios.  
 
