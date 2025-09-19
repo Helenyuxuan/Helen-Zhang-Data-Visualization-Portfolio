@@ -23,7 +23,7 @@ After I graduate, I plan to work in art administration across galleries and art 
 
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
