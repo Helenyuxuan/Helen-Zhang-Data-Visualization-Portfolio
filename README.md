@@ -1,4 +1,10 @@
-| [home page](https://helenyuxuan.github.io/Helen-Zhang-portfolio/critique-by-design) | [data viz examples](https://github.com/Helenyuxuan/Helen-Zhang-portfolio/edit/main/dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |[Data Visualization - Exploring Whisky Through Data](https://github.com/Helenyuxuan/Helen-Zhang-portfolio/edit/main/dataviz-examples-Whisky.md)|
+| [About Me](README.md) 
+| [Gov Debt Viz](dataviz-examples.md) 
+| [Whisky Viz](dataviz-examples-Whisky.md) 
+| [Critique by Design](critique-by-design.md) 
+| [Final Project I](final-project-part-one.md) 
+| [Final Project II](final-project-part-two.md) 
+| [Final Project III](final-project-part-three.md) |
 
 # Helen Zhang – Portfolio
 
