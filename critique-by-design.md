@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Visualization - Government Debt](dataviz-examples.md) | [critique by design](https://github.com/Helenyuxuan/Helen-Zhang-portfolio/blob/main/critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [About Me](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Visualization - Government Debt](https://github.com/Helenyuxuan/Helen-Zhang-portfolio/edit/main/dataviz-examples.md) | [critique by design](https://github.com/Helenyuxuan/Helen-Zhang-portfolio/blob/main/critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Critique & Redesign: Visualizing Global Tomato Production
 
