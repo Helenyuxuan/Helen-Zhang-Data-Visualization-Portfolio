@@ -3,9 +3,10 @@
 
 # About me 
 
-  <img src="https://github.com/user-attachments/assets/e66e429c-a1ee-400d-a924-c8d6c1c57df7" alt="Helen Zhang" width="180"/>
+  <img src="https://github.com/user-attachments/assets/9c3b5e8e-aff1-4692-a585-6ec1d95d8315" alt="Helen Zhang" width="180"/>
 
-Hi! My name is Helen Zhang. I am a second-year Master of Arts Management student at CMU, and I studied Jewelry and Metalsmithing at RISD for my undergraduate degree.
+
+Hi! My name is **Helen Zhang**. I am a second-year Master of Arts Management student at CMU, and I studied Jewelry and Metalsmithing at RISD for my undergraduate degree.
 
 
 # What I hope to learn
