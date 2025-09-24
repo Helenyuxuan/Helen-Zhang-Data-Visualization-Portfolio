@@ -25,9 +25,9 @@ After I graduate, I plan to work in art administration across galleries and art 
   A critique of an existing visualization and a redesign proposal using metaphor and map-based storytelling.  
 
 ## Final project
-[Part I](final-project-part-one)
+[Part I](final-project-part-one.md)
 
-[Part II](final-project-part-two)
+[Part II](final-project-part-two.md)
 
 [Part III](final-project-part-three.md)
 
