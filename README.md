@@ -27,7 +27,7 @@ After I graduate, I plan to work in art administration across galleries and art 
 ### [Exploring Whisky Through Data](dataviz-examples-Whisky.md)  
   A series of visualizations examining whisky by age, price, region, and flavor. The project explores how cost relates to aging, whether regions cluster by flavor profile, and how simple comparisons (e.g., age vs. price, smokiness vs. region) reveal meaningful patterns.  
 
-### [Critique by Design](critique-by-design.md)  
+### [Visualizing Global Tomato Production](critique-by-design.md)  
   A critique of an existing visualization and a redesign proposal using metaphor and map-based storytelling.  
 
 ## Final project
