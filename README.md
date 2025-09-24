@@ -1,10 +1,4 @@
-| [About Me](README.md) 
-| [Gov Debt Viz](dataviz-examples.md) 
-| [Whisky Viz](dataviz-examples-Whisky.md) 
-| [Critique by Design](critique-by-design.md) 
-| [Final Project I](final-project-part-one.md) 
-| [Final Project II](final-project-part-two.md) 
-| [Final Project III](final-project-part-three.md) |
+| [About Me](README.md) | [Gov Debt Viz](dataviz-examples.md) | [Whisky Viz](dataviz-examples-Whisky.md) | [Critique by Design](critique-by-design.md)| [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 # Helen Zhang – Portfolio
 
@@ -25,10 +19,10 @@ After I graduate, I plan to work in art administration across galleries and art 
 
 **Click the link below to view my design**
 
- ### [Government Debt Visualization](dataviz-examples.md)  
+### [Government Debt Visualization](dataviz-examples.md)  
   An analysis of OECD government debt data, presented with a table using conditional formatting and red-flag thresholds to highlight countries with high debt-to-GDP ratios.  
 
- ### [Critique by Design](critique-by-design.md)  
+### [Critique by Design](critique-by-design.md)  
   A critique of an existing visualization and a redesign proposal using metaphor and map-based storytelling.  
 
 ## Final project
