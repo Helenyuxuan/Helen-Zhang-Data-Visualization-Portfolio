@@ -1,10 +1,4 @@
-| [About Me](README.md) 
-| [Gov Debt Viz](dataviz-examples.md) 
-| [Whisky Viz](dataviz-examples-Whisky.md) 
-| [Critique by Design](critique-by-design.md) 
-| [Final Project I](final-project-part-one.md) 
-| [Final Project II](final-project-part-two.md) 
-| [Final Project III](final-project-part-three.md) |
+| [About Me](README.md) | [Gov Debt Viz](dataviz-examples.md) | [Whisky Viz](dataviz-examples-Whisky.md) | [Critique by Design](critique-by-design.md)| [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
