@@ -22,6 +22,8 @@ After I graduate, I plan to work in art administration across galleries and art 
 ### [Government Debt Visualization](dataviz-examples.md)  
   An analysis of OECD government debt data, presented with a table using conditional formatting and red-flag thresholds to highlight countries with high debt-to-GDP ratios.  
 
+### [Exploring Whisky Through Data](dataviz-examples-Whisky.md)  
+
 ### [Critique by Design](critique-by-design.md)  
   A critique of an existing visualization and a redesign proposal using metaphor and map-based storytelling.  
 
