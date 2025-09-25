@@ -27,25 +27,37 @@ This project is designed for audiences who want to connect sound with species an
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+For this project, I am working with two complementary types of data: bird observation records and birdsong recordings.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The first source comes from eBird
+, which provides the eBird Basic Dataset (EBD). By filtering the data to Pittsburgh and surrounding Allegheny County, I can identify the five most common bird species and map where they appear most frequently. Each record includes species, location, date, and effort details, which makes it possible to visualize distribution patterns at a local scale.
+
+The second source comes from the Macaulay Library, specifically The Cornell Guide to Bird Sounds: United States and Canada. This guide is a curated collection of high-quality field recordings that represent a wide range of vocalizations for North American birds. By using these recordings, I can create datasets of time, frequency, and amplitude for each song. Instead of leaving them as static spectrogram images, I reconstruct each sound into thousands of individual points. This method allows me to compare calls interactively, group them into categories (Phrase, Series, Warble, Trill), and explore variation both across and within species.
+
+Together, these datasets allow me to connect sound and place: eBird records ground the birds in Pittsburgh’s geography, while the Macaulay Library recordings reveal the acoustic diversity of their songs. By linking them, I can build a more complete story that moves between hearing, seeing, and mapping.
+
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+|eBird Basic Dataset (EBD)| https://ebird.org/data/download/ebd|Global citizen-science dataset of bird observations, filtered to Pittsburgh/Allegheny County for this project. Includes species, date, and coordinates.|
+|Macaulay Library – The Cornell Guide to Bird Sounds: United States and Canada|https://www.macaulaylibrary.org/product/the-cornell-guide-to-bird-sounds-us-and-canada/|A curated collection of bird songs and calls from across North America. Used as the primary source for Pittsburgh’s five common species in this project.|
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I will complete this project by combining signal processing with data visualization. First, I process raw bird recordings in Python using librosa, converting each sound into thousands of data points that capture time, frequency, and intensity. These datasets are then imported into Tableau, where I reconstruct them into visual forms that resemble spectrograms but allow for filtering, reshaping, and side-by-side comparison. To connect the visualizations back to everyday experience, I will organize examples into distinct singing styles and map their occurrence across Pittsburgh using eBird data. The final product will be an interactive, web-based story presented through a GitHub site, integrating Tableau dashboards, narrative text, and supporting sketches to guide the audience from listening to seeing.
+
+<img width="1224" height="379" alt="截屏2025-09-24 下午11 37 20" src="https://github.com/user-attachments/assets/84c273f0-cf08-48a9-9603-8d5b7a05bf1a" />
+
+
 
 ## References
 Pieplow, Nathan. 2009. “The Four Basic Patterns of Repetition and Speed.” Earbirding. October 21, 2009. https://earbirding.com/blog/specs/the-four-basic-patterns-of-repetition-and-speed.
+**Data：**
+eBird. 2025. eBird Basic Dataset (EBD). Cornell Lab of Ornithology. Accessed September 24, 2025. https://ebird.org/data/download/ebd.
+
+Macaulay Library. 2025. The Cornell Guide to Bird Sounds: United States and Canada. Cornell Lab of Ornithology. Accessed September 24, 2025. https://www.macaulaylibrary.org/product/the-cornell-guide-to-bird-sounds-us-and-canada/.
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
