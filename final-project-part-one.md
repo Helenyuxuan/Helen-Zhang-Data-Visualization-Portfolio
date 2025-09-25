@@ -50,11 +50,23 @@ I will complete this project by combining signal processing with data visualizat
 
 <img width="1224" height="379" alt="截屏2025-09-24 下午11 37 20" src="https://github.com/user-attachments/assets/84c273f0-cf08-48a9-9603-8d5b7a05bf1a" />
 
-
+**Step 4. Reconstruct in Tableau （Demo）**
+Import the CSV file into Tableau and plot it with Time (s) on the x-axis, Frequency (Hz) on the y-axis, and dB (intensity) mapped to size or color. This step rebuilds the sound into a point-based visualization that resembles a spectrogram but remains flexible: it can be filtered, zoomed, and reshaped to highlight particular song types. The demo shown here displays the Louisiana Waterthrush (Series) pattern, reconstructed directly from the exported dataset.
+<div class='tableauPlaceholder' id='viz1758772228338' style='position: relative'><noscript><a href='#'><img alt='Louisiana Waterthrush Sound |SERIES| ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Lo&#47;LouisianaWaterthrushSoundSERIES&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LouisianaWaterthrushSoundSERIES&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Lo&#47;LouisianaWaterthrushSoundSERIES&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1758772228338');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## References
 Pieplow, Nathan. 2009. “The Four Basic Patterns of Repetition and Speed.” Earbirding. October 21, 2009. https://earbirding.com/blog/specs/the-four-basic-patterns-of-repetition-and-speed.
-**Data：**
+
+**Data**
+
 eBird. 2025. eBird Basic Dataset (EBD). Cornell Lab of Ornithology. Accessed September 24, 2025. https://ebird.org/data/download/ebd.
 
 Macaulay Library. 2025. The Cornell Guide to Bird Sounds: United States and Canada. Cornell Lab of Ornithology. Accessed September 24, 2025. https://www.macaulaylibrary.org/product/the-cornell-guide-to-bird-sounds-us-and-canada/.
