@@ -41,7 +41,7 @@ Text here...
 Text here...
 
 ## References
-_List any references you used here._
+Pieplow, Nathan. 2009. “The Four Basic Patterns of Repetition and Speed.” Earbirding. October 21, 2009. https://earbirding.com/blog/specs/the-four-basic-patterns-of-repetition-and-speed.
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
