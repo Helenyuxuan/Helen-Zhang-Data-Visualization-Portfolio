@@ -17,6 +17,10 @@ Paired with maps that show where these birds are found in Pittsburgh, the projec
 
 My story aims to demonstrate how the songs of Pittsburgh’s most common birds can be transformed from fleeting sounds into visual data, making it easier for people to see differences, identify species, and understand where these birds live.
 
+## User Stories
+
+This project is designed for audiences who want to connect sound with species and place in an accessible way. A casual listener may want to identify which bird is singing outside their window, while a beginner birder may look to compare different singing styles—Phrase, Series, Warble, and Trill—across species. Local residents may explore maps to see where these birds are found in Pittsburgh, linking calls to familiar locations. At the same time, educators and science communicators may use the project as a visual dictionary of birdsongs that translates technical spectrogram data into forms that the broader public can understand.
+
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
