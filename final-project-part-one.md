@@ -48,7 +48,7 @@ Together, these datasets allow me to connect sound and place: eBird records grou
 
 I will complete this project by combining signal processing with data visualization. First, I process raw bird recordings in Python using librosa, converting each sound into thousands of data points that capture time, frequency, and intensity. These datasets are then imported into Tableau, where I reconstruct them into visual forms that resemble spectrograms but allow for filtering, reshaping, and side-by-side comparison. To connect the visualizations back to everyday experience, I will organize examples into distinct singing styles and map their occurrence across Pittsburgh using eBird data. The final product will be an interactive, web-based story presented through a GitHub site, integrating Tableau dashboards, narrative text, and supporting sketches to guide the audience from listening to seeing.
 
-<img width="1224" height="379" alt="截屏2025-09-24 下午11 37 20" src="https://github.com/user-attachments/assets/84c273f0-cf08-48a9-9603-8d5b7a05bf1a" />
+<img width="1170" height="290" alt="截屏2025-09-25 上午12 06 55" src="https://github.com/user-attachments/assets/c5c4af73-084b-4293-afda-7f77456cfa48" />
 
 **Step 4. Reconstruct in Tableau （Demo）**
 Import the CSV file into Tableau and plot it with Time (s) on the x-axis, Frequency (Hz) on the y-axis, and dB (intensity) mapped to size or color. This step rebuilds the sound into a point-based visualization that resembles a spectrogram but remains flexible: it can be filtered, zoomed, and reshaped to highlight particular song types. The demo shown here displays the Louisiana Waterthrush (Series) pattern, reconstructed directly from the exported dataset.
