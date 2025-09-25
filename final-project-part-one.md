@@ -3,9 +3,9 @@
 # Visualizing Pittsburgh’s Birds in Sound and Space - Final Project Part I 
 ## Outline
 
-This project looks at five of the most common bird species in Pittsburgh and explores how their songs can be transformed into forms that are both visible and comparable. Bird calls are everywhere in our daily lives, but they are often dismissed as background noise.
+We hear bird calls every day, but they are often treated as nothing more than background noise. This project takes five of the most common bird species in Pittsburgh and explores how their songs can be turned into visual forms that make comparison and recognition easier.
 
-I chose this topic because listening to birds has always felt both familiar and calming. When I hear a robin or cardinal outside my window, I notice the rise and fall of their notes, but I cannot confidently say which bird is which. That uncertainty made me curious: could visual translation bridge the gap between what we hear and what we know? My goak is to create a visual dictionary of calls, one that highlights not only the shape of a single song but also the variety within each species.
+I chose this topic because listening to birds has always felt both familiar and calming. When I hear a robin or cardinal outside my window, I notice the rise and fall of their notes, but I cannot confidently say which bird is which. That uncertainty made me curious: could visual translation bridge the gap between what we hear and what we know? My goal is to create a set of data visualization that highlights not only the shape of a single song but also the variety within each species.
 
 To achieve this, the project does not rely on pre-made spectrogram images but instead begins with the raw sounds themselves. Each recording is broken down into thousands of individual points that capture time, frequency, and intensity, and these points are then reconstructed in Tableau. The result looks similar to a spectrogram, but it is a dataset-driven visualization that can be filtered, reshaped, and directly compared. This approach makes the act of listening more accessible—moving away from a static format meant for specialists and toward a visual form that is open to a broader audience.
 
