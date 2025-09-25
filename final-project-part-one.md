@@ -3,7 +3,7 @@
 # Visualizing Pittsburgh’s Birds in Sound and Space - Final Project Part I 
 ## Outline
 
-We hear bird calls every day, but they are often treated as nothing more than background noise. This project takes five of the most common bird species in Pittsburgh and explores how their songs can be turned into visual forms that make comparison and recognition easier.
+This project frames the everyday songs of Pittsburgh’s birds not only as sounds but as windows into their habits and habitats. By visualizing five common species across both their calls and their places, the project creates a more accessible way to encounter birds—less like a technical manual, more like a sketchbook that invites curiosity.
 
 I chose this topic because listening to birds has always felt both familiar and calming. When I hear a robin or cardinal outside my window, I notice the rise and fall of their notes, but I cannot confidently say which bird is which. That uncertainty made me curious: could visual translation bridge the gap between what we hear and what we know? My goal is to create a set of data visualization that highlights not only the shape of a single song but also the variety within each species.
 
@@ -62,7 +62,12 @@ Import the CSV file into Tableau and plot it with Time (s) on the x-axis, Freque
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+## Possible Design Style
+
+Instead of a traditional science graphic, I want the project to feel more like a sketchbook or field journal. The visuals will mix sound-derived data points with sketch-like elements, creating a style that is playful and exploratory rather than purely explanatory. This approach makes the project more inviting for a broader audience, balancing scientific rigor with artistic curiosity.
+
 ## References
+
 Pieplow, Nathan. 2009. “The Four Basic Patterns of Repetition and Speed.” Earbirding. October 21, 2009. https://earbirding.com/blog/specs/the-four-basic-patterns-of-repetition-and-speed.
 
 **Data**
