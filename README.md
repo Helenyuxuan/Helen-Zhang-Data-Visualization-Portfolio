@@ -20,7 +20,7 @@ After I graduate, I plan to work in art administration across galleries and art 
 
 # My Work
 
-## Click the link below to view my design**
+## Click the link below to view my design
 
 ### [Government Debt Visualization](dataviz-examples.md)  
   An analysis of OECD government debt data, presented with a table using conditional formatting and red-flag thresholds to highlight countries with high debt-to-GDP ratios.  
