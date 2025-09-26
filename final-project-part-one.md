@@ -3,22 +3,15 @@
 # Visualizing Allegheny County’s Birds in Sound and Space - Final Project Part I 
 ## Outline
 
-This project frames the Allegheny County’s birds through sound and space as windows into their habits and habitats. By visualizing five common species across both their calls and their places, the project creates a more accessible way to get closer to these birds.
+This project frames the Allegheny County’s birds through sound and space, offering windows into their habits and habitats. By visualizing five common species across both their calls and their places, the project creates a more accessible way to get closer to these birds.
 
-I chose this topic because listening to birds has always felt both familiar and calming. When I hear a robin or cardinal outside my window, I notice the rise and fall of their notes, but I cannot confidently say which bird is which. That uncertainty made me curious: could visual translation bridge the gap between what we hear and what we know? My goal is to create a set of data visualization that highlights not only the shape of a single song but also the variety within each species.
+I chose this topic because listening to birds has always felt both familiar and calming for me. When I hear a robin or cardinal outside my window, I notice the rise and fall of their notes, but I cannot confidently say which bird is which. That uncertainty made me curious: could visual translation bridge the gap between what we hear and what we know? My goal is to create a set of data visualization that highlights not only the shape of a single bird song but also the variety within each species.
 
 To achieve this, the project does not rely on pre-made spectrogram images but instead begins with the raw sounds themselves. Each recording is broken down into thousands of individual points that capture time, frequency, and intensity, and these points are then reconstructed in Tableau. The result looks similar to a spectrogram, but it is a dataset-driven visualization that can be filtered, reshaped, and directly compared. This approach makes the act of listening more accessible—moving away from a static format meant for specialists and toward a visual form that is open to a broader audience.
 
 From there, the points are organized into distinct “singing styles,” such as the clear notes of a Phrase, the rapid repetitions of a Series, the fluid tones of a Warble, and the quick, even beat of a Trill. These categories, drawn from Nathan Pieplow’s framework for describing birdsong patterns (Pieplow 2009), provide a bridge between technical audio data and a more intuitive, musical understanding. Beyond single examples, the project also works on two levels of comparison: across species, where Allegheny County’s five common birds can be set side by side; and within species, where different song types are separated and displayed to reveal the richness and variation of a single voice.
 
 Paired with maps that show where these birds are found in Allegheny County, the project brings together sound and place, hearing and seeing. It is an invitation to slow down, pay attention, and discover how much life is carried in the voices around us. By using data visualization to uncover the hidden patterns within these songs, I hope to encourage a deeper connection to the natural world that exists right outside our windows.
-
-## Story Arc
-
-This storyline begins with a broad view of bird distributions across Allegheny County, then narrows to highlight one species in particular. From there, the focus shifts to the variety of its singing styles—comparing phrases, series, warbles, and trills—to show how a single voice can carry multiple forms. Finally, the lens turns to movement, tracing the recorded routes of the species to connect sound with place and reveal both its patterns of song and presence in the landscape.
-
-<img width="2752" height="2064" alt="未命名作品 2" src="https://github.com/user-attachments/assets/99161549-986a-41be-9218-3d20cc4f7a56" />
-
 
 ## One-Sentence Summary
 
@@ -27,6 +20,26 @@ My story aims to demonstrate how the songs of Allegheny County’s most common b
 ## User Stories
 
 This project is designed for audiences who want to connect sound with species and place in an accessible way. A casual listener may want to identify which bird is singing outside their window, while a beginner birder may look to compare different singing styles across species. Local residents may explore maps to see where these birds are found in Allegheny County, linking calls to familiar locations. At the same time, educators and science communicators may use the project as a visual dictionary of birdsongs that translates technical spectrogram data into forms that the broader public can understand.
+
+## Story Arc
+
+<img width="2752" height="2064" alt="未命名作品 2" src="https://github.com/user-attachments/assets/99161549-986a-41be-9218-3d20cc4f7a56" />
+
+## Storyline (logic of the sketch)
+
+- **From whole to part:** begin with a map of Allegheny County showing bird distributions  
+  (different colors = different species).  
+
+- **Focus on one bird:** extract a single species from the map and enlarge its points.  
+
+- **Song comparison:** based on these points, show the different song categories of that species  
+  (*Phrase / Series / Warble / Trill*), allowing the audience to see its “vocal diversity.”  
+
+- **Movement path:** also mark the activity route of this bird/this species,  
+  showing its movement or distribution changes over time.  
+
+- **Next step (to be continuous):** possibly extend to habits or migration routes (still in progress).  
+
 
 ## Initial sketches
 
@@ -42,8 +55,7 @@ This project is designed for audiences who want to connect sound with species an
 
 For this project, I am working with two complementary types of data: bird observation records and birdsong recordings.
 
-The first source comes from eBird
-, which provides the eBird Basic Dataset (EBD). By filtering the data to Allegheny County and surrounding Allegheny County, I can identify the five most common bird species and map where they appear most frequently. Each record includes species, location, date, and effort details, which makes it possible to visualize distribution patterns at a local scale.
+The first source comes from eBird, which provides the eBird Basic Dataset (EBD). By filtering the data to Allegheny County and surrounding Allegheny County, I can identify the five most common bird species and map where they appear most frequently. Each record includes species, location, date, and effort details, which makes it possible to visualize distribution patterns at a local scale.
 
 The second source comes from the Macaulay Library, specifically The Cornell Guide to Bird Sounds: United States and Canada. This guide is a curated collection of high-quality field recordings that represent a wide range of vocalizations for North American birds. By using these recordings, I can create datasets of time, frequency, and amplitude for each song. Instead of leaving them as static spectrogram images, I reconstruct each sound into thousands of individual points. This method allows me to compare calls interactively, group them into categories (Phrase, Series, Warble, Trill), and explore variation both across and within species.
 
