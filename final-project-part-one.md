@@ -101,4 +101,4 @@ eBird. 2025. eBird Basic Dataset (EBD). Cornell Lab of Ornithology. Accessed Sep
 Macaulay Library. 2025. The Cornell Guide to Bird Sounds: United States and Canada. Cornell Lab of Ornithology. Accessed September 24, 2025. https://www.macaulaylibrary.org/product/the-cornell-guide-to-bird-sounds-us-and-canada/.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help correcting errors in my code.
