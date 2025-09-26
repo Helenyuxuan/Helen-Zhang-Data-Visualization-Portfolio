@@ -23,7 +23,7 @@ This project is designed for audiences who want to connect sound with species an
 
 ## Story Arc
 
-<img width="2752" height="2064" alt="未命名作品 2" src="https://github.com/user-attachments/assets/2a67002e-7c78-4730-aeac-2b84e6f56c41" />
+<img width="917" height="688" alt="未命名作品 2" src="https://github.com/user-attachments/assets/2a67002e-7c78-4730-aeac-2b84e6f56c41" />
 
 ## Storyline (logic of the sketch)
 
