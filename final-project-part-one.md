@@ -23,8 +23,12 @@ This project is designed for audiences who want to connect sound with species an
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img width="977" height="544" alt="截屏2025-09-25 下午10 24 27" src="https://github.com/user-attachments/assets/7b0eca67-246b-4645-be40-79d5a35dda20" />
 
-Text here...
+<img width="984" height="469" alt="截屏2025-09-25 下午10 27 13" src="https://github.com/user-attachments/assets/a88eb36c-9f42-4c8c-84cf-a8e36c73da88" />
+
+
+<img width="936" height="541" alt="截屏2025-09-25 下午10 30 54" src="https://github.com/user-attachments/assets/b8cdabf6-256d-4fdd-b70a-f6bf2d60bb3e" />
 
 # The data
 
