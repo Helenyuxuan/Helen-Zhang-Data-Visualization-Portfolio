@@ -12,24 +12,36 @@ This storyboard structure is logically presented, moving from the broad (all cou
 For this project, I have identified several key visualizations that will guide the reader through the story of Pittsburgh’s five most common birds. Each visualization is designed to connect sound, space, and species, making the patterns of birdsong more intuitive and engaging.
 
 - **Top 5 Most Observed Species (Bar Chart)**  
-  A bar chart ranking the five most commonly observed bird species in Allegheny County. This sets the stage by establishing which species are most present in daily life.<img width="1296" height="620" alt="截屏2025-10-02 下午6 56 56" src="https://github.com/user-attachments/assets/5ce701c8-94cb-460c-8a66-029271f20be3" />
+  A bar chart ranking the five most commonly observed bird species in Allegheny County. This sets the stage by establishing which species are most present in daily life.
+<img width="648" height="310" alt="截屏2025-10-02 下午6 56 56" src="https://github.com/user-attachments/assets/5ce701c8-94cb-460c-8a66-029271f20be3" />
 
 **Using the Northern Cardinal as an example, the other four species will follow the same format.**
 
 - **Species Profile: Northern Cardinal (Sample Page)**
-A focused profile that blends text, imagery. Features a short descriptive narrative, scientific details, and a clear visual identity (color, photo, or icon).<img width="1451" height="853" alt="截屏2025-10-02 下午6 59 57" src="https://github.com/user-attachments/assets/42917b53-a045-404c-b989-7a6dc05afbdc" />
+A focused profile that blends text, imagery. Features a short descriptive narrative, scientific details, and a clear visual identity (color, photo, or icon).
+<img width="725" height="426" alt="截屏2025-10-02 下午6 59 57" src="https://github.com/user-attachments/assets/42917b53-a045-404c-b989-7a6dc05afbdc" />
+
 **Note:** Explanations of bird sound visualization categories (e.g., **trill**, **series**, **musical vs. non-musical tones**...) are based on resources from *Earbirding* (Earbirding, *The Four Basic Patterns of Repetition and Speed*).
 
 - **Species Distribution Map (Map in Tableau)**  
-  A map showing where each species has been recorded across Allegheny County. Different colors represent different species, giving a geographic context to where these birds can be found.<img width="1294" height="793" alt="截屏2025-10-02 下午6 59 37" src="https://github.com/user-attachments/assets/d98ad762-46f8-4e7c-9a54-777aff7ddb6c" />
+  A map showing where each species has been recorded across Allegheny County. Different colors represent different species, giving a geographic context to where these birds can be found.
+
+<img width="647" height="396" alt="截屏2025-10-02 下午6 59 37" src="https://github.com/user-attachments/assets/d98ad762-46f8-4e7c-9a54-777aff7ddb6c" />
 
 - **Still deciding to include or not :Yearly Observation Trends (Line Chart)**  
-A time-series view of reported observations across years. While this doesn’t directly measure population size—since the same bird can be observed multiple times—it matters because it shows when and how people most often encounter these birds. The rhythm of reporting reflects both the birds’ seasonal activity and our habits of noticing them. This temporal perspective sets the stage for sound visualizations, where we shift from when we see them to how we hear them.<img width="807" height="769" alt="截屏2025-10-02 下午7 29 44" src="https://github.com/user-attachments/assets/ad61520a-806c-44a1-83ed-31a7d9551fd2" />
+A time-series view of reported observations across years. While this doesn’t directly measure population size—since the same bird can be observed multiple times—it matters because it shows when and how people most often encounter these birds. The rhythm of reporting reflects both the birds’ seasonal activity and our habits of noticing them. This temporal perspective sets the stage for sound visualizations, where we shift from when we see them to how we hear them.
+
+<img width="403" height="384" alt="截屏2025-10-02 下午7 29 44" src="https://github.com/user-attachments/assets/ad61520a-806c-44a1-83ed-31a7d9551fd2" />
 
 
 - **Song Visualization (Spectrogram-based Graphs)**  
-  Each bird’s song is translated into a dataset of frequency, time, and intensity points, reconstructed in Tableau. These graphs make calls visible and allow comparisons across different song types within each species (Phrase, Series, Warble, Trill).<img width="960" height="755" alt="截屏2025-10-02 下午7 02 56" src="https://github.com/user-attachments/assets/8f4880d3-00d0-4090-9806-b7ae5708be1f" />
-<img width="1112" height="747" alt="截屏2025-10-02 下午7 32 35" src="https://github.com/user-attachments/assets/daf5eaf8-82fe-47af-b239-a30995603b62" />
+  Each bird’s song is translated into a dataset of frequency, time, and intensity points, reconstructed in Tableau. These graphs make calls visible and allow comparisons across different song types within each species (Phrase, Series, Warble, Trill).
+
+<img width="480" height="377" alt="截屏2025-10-02 下午7 02 56" src="https://github.com/user-attachments/assets/8f4880d3-00d0-4090-9806-b7ae5708be1f" />
+<img width="556" height="373" alt="截屏2025-10-02 下午7 32 35" src="https://github.com/user-attachments/assets/daf5eaf8-82fe-47af-b239-a30995603b62" />
+
+
+<img width="936" height="541" alt="截屏2025-09-25 下午10 30 54" src="https://github.com/user-attachments/assets/b8cdabf6-256d-4fdd-b70a-f6bf2d60bb3e" />
 
 
 # User research 
