@@ -5,7 +5,7 @@ My storyboard lays out the progression of the project in a clear, sequential way
 
 The full project will apply this same structure to all five species, ensuring that each one is represented with consistent visual elements: an introduction, a distribution map, and a visualization of song styles. There will be additional visualization that show changes in recorded observations across seasons and years, connecting individual birds back to larger ecological patterns.
 
-This storyboard structure is logically presented, moving from the broad (all county records) to the specific (individual birds), and it provides a sufficient number of visualizations to tell a compelling story. By adopting a sketchbook-like style, the project makes bird data approachable for casual audiences—birdwatchers, students, or local residents—so the visuals do not just inform but invite curiosity. This combination of outline, draft data visualizations, and audience framing meets the requirements for a clear, engaging storyboard.
+This storyboard structure is logically presented, moving from the broad (all county records) to the specific (individual birds), and it provides a sufficient number of visualizations to tell a compelling story. By adopting a sketchbook-like style, the project makes bird data approachable for casual audiences, including birdwatchers, students, or local residents, so the visuals do not just inform but invite curiosity. This combination of outline, draft data visualizations, and audience framing meets the requirements for a clear, engaging storyboard.
 
 ## Design: data visualizations
 
@@ -109,14 +109,13 @@ Based on these interviews, I plan to make the following changes to improve clari
 The user interviews confirmed that the playful sketchbook framing is a strong strength of the project, but the clarity of visualizations depends heavily on annotations and transitions. Moving forward, I will simplify technical language, build in seasonal perspectives, and ensure smoother narrative flow so that the story is inviting to both beginners and educators.  
 
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
 ## References
-_List any references you used here._
-
+- eBird. *eBird Basic Dataset (EBD)*. Cornell Lab of Ornithology. Retrieved from: https://ebird.org/data/download  
+- Macaulay Library. *The Cornell Guide to Bird Sounds: United States and Canada*. Cornell Lab of Ornithology. Retrieved from: https://www.macaulaylibrary.org/product/the-cornell-guide-to-bird-sounds-us-and-canada/  
+- Earbirding. *The Four Basic Patterns of Repetition and Speed*. Retrieved from: https://earbirding.com/blog/specs/the-four-basic-patterns-of-repetition-and-speed  
+- BirdLife International. *Northern Cardinal (Cardinalis cardinalis) species factsheet*. Retrieved from: https://datazone.birdlife.org/species/factsheet/northern-cardinal-cardinalis-cardinalis  
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+- Helped refine the clarity of project descriptions, correct the grammar of my sketchbook-style narrative writing
+- Correct python and Github code for me
+
 
