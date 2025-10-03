@@ -9,7 +9,7 @@ This storyboard structure is logically presented, moving from the broad (all cou
 
 ## Design: data visualizations
 
-For this project, I have identified several key visualizations that will guide the reader through the story of Pittsburgh’s five most common birds. Each visualization is designed to connect sound, space, and species, making the patterns of birdsong more intuitive and engaging. All datasets are restricted to the period **2015–2025 (present)** to ensure both recency and consistency.  
+For this project, I have identified several key visualizations that will guide the reader through the story of Alle’s five most common birds. Each visualization is designed to connect sound, space, and species, making the patterns of birdsong more intuitive and engaging. All datasets are restricted to the period **2015–2025 (present)** to ensure both recency and consistency.  
 
 - **Top 5 Most Observed Species (Bar Chart)**  
   A bar chart ranking the five most commonly observed bird species in Allegheny County. This sets the stage by establishing which species are most present in daily life.
@@ -66,7 +66,7 @@ This choice ensures that the design of data visualizations—maps, song reconstr
 
 | Goal | Questions to Ask |  
 |------|------------------|  
-| Understand baseline familiarity with birds | When you hear birds around Pittsburgh, do you usually notice or ignore them? |  
+| Understand baseline familiarity with birds | When you hear birds around Allegheny County, do you usually notice or ignore them? |  
 | Test clarity of visualizations | Looking at this visualization, can you tell what it represents without me explaining? |  
 | Identify confusing elements | Is there anything here that feels too technical, overwhelming, or hard to follow? |  
 | Measure engagement | Does this sketchbook-style presentation feel inviting, or would you prefer a more formal/scientific style? |  
@@ -76,9 +76,9 @@ This choice ensures that the design of data visualizations—maps, song reconstr
 
 ## Interview Findings  
 
-- Interviewee 1: classmate  
-- Interviewee 2: classmate  
-- Interviewee 3: a birder friend outside our class (teacher)
+- Interviewee 1: classmate (graduate student, 20s), 
+- Interviewee 2: classmate (graduate student, 20s)
+- Interviewee 3: birder friend outside of class (adult educator, 30s)
 
 | Questions | Interview 1 | Interview 2 | Interview 3 |  
 |-----------|-------------|-------------|-------------|  
