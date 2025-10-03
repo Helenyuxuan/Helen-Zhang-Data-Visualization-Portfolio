@@ -1,5 +1,8 @@
 | [About Me](README.md) | [Gov Debt Viz](dataviz-examples.md) | [Whisky Viz](dataviz-examples-Whisky.md) | [Critique by Design](critique-by-design.md)| [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
+# Shorthand Link
+https://preview.shorthand.com/vZKazCyoYU3TrVDP
+
 # Wireframes / storyboards
 My storyboard lays out the progression of the project in a clear, sequential way. The narrative begins with a county-wide overview, using bar charts to identify the five most frequently observed bird species in Allegheny County. From there, the story narrows in on each individual species. For the Northern Cardinal, which I have developed first(TOP 1 observed bird), the section includes a brief introduction, a location map showing where it is most often recorded, and a visualization of its songs that reconstructs the sound as data points in Tableau.
 
