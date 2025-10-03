@@ -31,6 +31,7 @@ A focused profile that blends text, imagery. Features a short descriptive narrat
 - **Still deciding to include or not :Yearly Observation Trends (Line Chart)**  
 A time-series view of reported observations across years. While this doesn’t directly measure population size—since the same bird can be observed multiple times—it matters because it shows when and how people most often encounter these birds. The rhythm of reporting reflects both the birds’ seasonal activity and our habits of noticing them. This temporal perspective sets the stage for sound visualizations, where we shift from when we see them to how we hear them.
 
+
 <img width="403" height="384" alt="截屏2025-10-02 下午7 29 44" src="https://github.com/user-attachments/assets/ad61520a-806c-44a1-83ed-31a7d9551fd2" />
 
 
@@ -40,15 +41,17 @@ A time-series view of reported observations across years. While this doesn’t d
 <img width="480" height="377" alt="截屏2025-10-02 下午7 02 56" src="https://github.com/user-attachments/assets/8f4880d3-00d0-4090-9806-b7ae5708be1f" />
 <img width="556" height="373" alt="截屏2025-10-02 下午7 32 35" src="https://github.com/user-attachments/assets/daf5eaf8-82fe-47af-b239-a30995603b62" />
 
+- **Still deciding to include or not: Individual Bird Tracking (Route Map)**
+A visualization tracing the movement of a single bird (based on observer ID and repeated sightings). While not representative of the entire species, it offers a personal lens into the data—showing how one bird might weave through parks, rivers, and neighborhoods over time. This perspective makes the dataset feel more tangible, connecting scientific records to the lived landscapes where people encounter these birds.
 
-<img width="936" height="541" alt="截屏2025-09-25 下午10 30 54" src="https://github.com/user-attachments/assets/b8cdabf6-256d-4fdd-b70a-f6bf2d60bb3e" />
+<img width="468" height="270" alt="截屏2025-09-25 下午10 30 54" src="https://github.com/user-attachments/assets/b8cdabf6-256d-4fdd-b70a-f6bf2d60bb3e" />
 
 
-# User research 
+# User Research  
 
 ## Target Audience  
 
-The target audience for this project is the broader Pittsburgh community, particularly people who hear birds daily but do not necessarily recognize them by sound or appearance. This includes casual park visitors, city residents with backyard feeders, and students or educators who want accessible, visual ways to learn about local species.  
+The target audience for this project is the broader Allegeny community, particularly people who hear birds daily but do not necessarily recognize them by sound or appearance. This includes casual park visitors, city residents, and students or educators who want accessible, visual ways to learn about local bird species.  
 
 To make the research representative, I identified three groups to focus on:  
 
@@ -59,48 +62,52 @@ To make the research representative, I identified three groups to focus on:
 This choice ensures that the design of data visualizations—maps, song reconstructions, and observation trends—remains both accurate and approachable. Titles, annotations, legends, captions, and sources are added not only for precision but also to keep the project open and engaging for non-specialists.  
 
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+## Interview Script  
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
-
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Goal | Questions to Ask |  
+|------|------------------|  
+| Understand baseline familiarity with birds | When you hear birds around Pittsburgh, do you usually notice or ignore them? |  
+| Test clarity of visualizations | Looking at this visualization, can you tell what it represents without me explaining? |  
+| Identify confusing elements | Is there anything here that feels too technical, overwhelming, or hard to follow? |  
+| Measure engagement | Does this sketchbook-style presentation feel inviting, or would you prefer a more formal/scientific style? |  
+| Evaluate narrative flow | Does the order—maps, profiles, songs, and trends—make sense to you? If not, how would you expect the story to flow? |  
+| Explore personal connection | Do these visuals make you want to pay more attention to bird calls in daily life? |  
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+## Interview Findings  
 
-Text here!
+- Interviewee 1: classmate  
+- Interviewee 2: classmate  
+- Interviewee 3: a birder friend outside our class (teacher)
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Questions | Interview 1 | Interview 2 | Interview 3 |  
+|-----------|-------------|-------------|-------------|  
+| Do you usually notice or ignore bird sounds? | Notices but cannot identify; interested in “seeing” the sounds. | Usually ignores unless very loud. | Notices often and travel alot for bird watching and listening |  
+| Can you tell what the visualizations represent? | Understood spectrogram shapes after explanation; suggested simpler labels. | Found some visuals confusing, especially the frequency axis. | Understood with annotations; appreciated the sketchbook tone. |  
+| Is anything too technical or overwhelming? | Yes, scientific terms like “trill” need small definitions. | Charts without annotations feel “cold.” | Too much data on one screen could overwhelm students. |  
+| Do you like the sketchbook style? | Yes, felt more personal than a report. | Yes, makes it playful and approachable. | Very positive, sees it as a teaching tool. |  
+| Does the story flow make sense? | Yes, but wanted more transition text between sections. | Suggested starting with sound before maps. | Liked the flow but wanted seasonal context added. |  
+| Would you pay more attention to bird calls after seeing this? | Yes, wants to try identifying them. | Yes, at least curious. | Definitely, would use with students. |  
+| What would you change? | Add “legend” for sound types. | Reduce amount of text on one page. | Make seasonal variations clearer. |  
 
-> ...include any final thoughts you have here. 
 
-Text here!
+# Identified Changes for Part III  
+
+Based on these interviews, I plan to make the following changes to improve clarity and engagement:  
+
+| Research Synthesis | Anticipated Changes for Part III |  
+|--------------------|----------------------------------|  
+| Participants found spectrogram-style visualizations hard to interpret without guidance. | Add short annotations and legends (e.g., arrows marking “rising note” or “falling note”), keep terms simple, and cite source (Earbirding). |  
+| Narrative transitions felt abrupt. | Write short, sketchbook-style transition notes between sections (e.g., moving from “where to find them” → “how they sound”). |  
+| Seasonal context requested. | Add a seasonal/quarterly observation graph alongside yearly trends. |  
+| Too much information at once could overwhelm. | Break visuals into smaller steps—first species maps, then song visualizations, then trends, instead of showing all together. |  
+| Sketchbook style appreciated by all groups. | Keep the sketchbook tone; emphasize personal observations and hand-drawn feel in final design. |  
+
+
+## Final Thoughts  
+
+The user interviews confirmed that the playful sketchbook framing is a strong strength of the project, but the clarity of visualizations depends heavily on annotations and transitions. Moving forward, I will simplify technical language, build in seasonal perspectives, and ensure smoother narrative flow so that the story is inviting to both beginners and educators.  
+
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
