@@ -9,7 +9,7 @@ This storyboard structure is logically presented, moving from the broad (all cou
 
 ## Design: data visualizations
 
-For this project, I have identified several key visualizations that will guide the reader through the story of Pittsburgh’s five most common birds. Each visualization is designed to connect sound, space, and species, making the patterns of birdsong more intuitive and engaging.
+For this project, I have identified several key visualizations that will guide the reader through the story of Pittsburgh’s five most common birds. Each visualization is designed to connect sound, space, and species, making the patterns of birdsong more intuitive and engaging. All datasets are restricted to the period **2015–2025 (present)** to ensure both recency and consistency.  
 
 - **Top 5 Most Observed Species (Bar Chart)**  
   A bar chart ranking the five most commonly observed bird species in Allegheny County. This sets the stage by establishing which species are most present in daily life.
